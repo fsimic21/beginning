@@ -6,7 +6,7 @@ This is an educational repository and the resulting software will be a data gene
 
 Below is a list of tasks that need to be finished before this software is ready for use.
 
-- [ ] 
+- [ ] #2
 - [ ] 
 - [ ] 
 - [ ] 
